@@ -28,3 +28,4 @@ export async function analyzeImage(base64Image: string, prompt: string = "Analyz
     throw error;
   }
 }
+ 
